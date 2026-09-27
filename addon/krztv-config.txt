@@ -3,10 +3,31 @@
   "block_premium": true,
 
   "bein_keywords": [
-    ""
+    "bein",
+    "beinsport",
+    "beinsports",
+    "bein sport",
+    "bein sports"
   ],
 
   "premium_keywords": [
-    ""
+    "netflix",
+    "shahid",
+    "osn",
+    "starz",
+    "disney",
+    "prime video",
+    "primevideo",
+    "hahaiptv",
+    "HaHa",
+    "alwan",
+    "alkass",
+    "thmanyah",
+    "thamanih",
+    "art",
+    "دوري أبطال آسيا للنخبة",
+    "دوري ابطال اسيا للنخبة",
+    "alwan |",
+    "مينا نادر | ستاند اب كوميدي"
   ]
 }
