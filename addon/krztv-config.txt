@@ -3,11 +3,7 @@
   "block_premium": false,
 
   "bein_keywords": [
-    "bein",
-    "beinsport",
-    "beinsports",
-    "bein sport",
-    "bein sports"
+    "bein"
   ],
 
   "premium_keywords": [
@@ -27,7 +23,6 @@
     "art",
     "دوري أبطال آسيا للنخبة",
     "دوري ابطال اسيا للنخبة",
-    "alwan |",
-    "مينا نادر | ستاند اب كوميدي"
+    "alwan |"
   ]
 }
