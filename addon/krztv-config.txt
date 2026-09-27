@@ -22,6 +22,6 @@
     "دوري",
     "Haha",
     "Thamanih",
-    "ALWAN"
+    "ALWAN |"
   ]
 }
