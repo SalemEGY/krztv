@@ -1,17 +1,17 @@
 {
   "block_bein": true,
   "block_premium": true,
-
   "bein_keywords": [
     "bein",
-    "beIN Sports",
-    "beIN SPORTS"
+    "beinsports",
+    "bein sport"
   ],
-
   "premium_keywords": [
     "netflix",
     "shahid",
-    "watchit",
-    "watch it"
+    "osn",
+    "starz",
+    "disney",
+    "prime video"
   ]
 }
