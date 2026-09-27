@@ -1,7 +1,7 @@
 {
   "version": 7,
-  "block_bein": false,
-  "block_premium": false,
+  "block_bein": true,
+  "block_premium": true,
 
   "bein_keywords": [
     "bein",
