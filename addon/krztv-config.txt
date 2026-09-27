@@ -12,6 +12,8 @@
     "osn",
     "starz",
     "disney",
-    "prime video"
+    "prime video",
+    "Hahaiptv",
+    "Haha"
   ]
 }
