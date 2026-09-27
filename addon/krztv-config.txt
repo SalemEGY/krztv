@@ -1,12 +1,14 @@
 {
-  "block_bein": false,
+  "block_bein": true,
   "block_premium": false,
 
   "bein_keywords": [
-    ""
+    "bein",
+    "beinsport"
   ],
 
   "premium_keywords": [
-    ""
+    "netflix",
+    "shahid"
   ]
 }
