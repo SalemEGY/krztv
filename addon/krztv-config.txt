@@ -1,7 +1,7 @@
 {
-  "version": 3,
-  "block_bein": true,
-  "block_premium": true,
+  "version": 4,
+  "block_bein": false,
+  "block_premium": false,
 
   "bein_keywords": [
     "bein",
@@ -30,5 +30,9 @@
     "دوري ابطال اسيا للنخبة",
     "alwan",
     "مينا"
+  ],
+
+  "blocked_users": [
+    "WL26168572"
   ]
 }
