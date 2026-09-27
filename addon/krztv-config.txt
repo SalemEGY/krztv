@@ -3,27 +3,10 @@
   "block_premium": false,
 
   "bein_keywords": [
-    "bein"
+    ""
   ],
 
   "premium_keywords": [
-    "netflix",
-    "shahid",
-    "osn",
-    "starz",
-    "disney",
-    "prime video",
-    "primevideo",
-    "hahaiptv",
-    "HaHa",
-    "alwan",
-    "alkass",
-    "thmanyah",
-    "thamanih",
-    "art",
-    "دوري أبطال آسيا للنخبة",
-    "دوري ابطال اسيا للنخبة",
-    "alwan |",
-    "مينا نادر"
+    ""
   ]
 }
