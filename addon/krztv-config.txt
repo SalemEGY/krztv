@@ -1,1 +1,4 @@
-
+{
+  "block_bein": true,
+  "block_premium": true
+}
