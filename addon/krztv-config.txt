@@ -1,14 +1,18 @@
 {
-  "block_bein": true,
-  "block_premium": true,
+  "block_bein": false,
+  "block_premium": false,
 
   "bein_keywords": [
-    "bein"
+    "bein",
+    "beinsport",
+    "beinsports",
+    "bein sport",
+    "bein sports"
   ],
 
   "premium_keywords": [
     "netflix",
-    "shahed",
+    "shahid",
     "osn",
     "starz",
     "disney",
