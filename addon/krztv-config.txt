@@ -3,7 +3,7 @@
   "block_premium": false,
 
   "bein_keywords": [
-    "bein"
+    "no"
   ],
 
   "premium_keywords": [
