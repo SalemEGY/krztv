@@ -3,7 +3,7 @@
   "block_premium": false,
 
   "bein_keywords": [
-    "bein"
+    ""
   ],
 
   "premium_keywords": [
@@ -23,6 +23,6 @@
     "art",
     "دوري أبطال آسيا للنخبة",
     "دوري ابطال اسيا للنخبة",
-    "alwan |"
+    ""
   ]
 }
