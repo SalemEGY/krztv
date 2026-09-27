@@ -19,8 +19,9 @@
     "Alkass",
     "Thmanyah",
     "ART",
-    "دوري أبطال",
+    "دوري",
     "Haha",
     "Thamanih",
+    "ALWAN"
   ]
 }
