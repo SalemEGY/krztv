@@ -8,7 +8,8 @@
     "beinsport",
     "beinsports",
     "bein sport",
-    "bein sports"
+    "bein sports",
+    "haha"
   ],
 
   "premium_keywords": [
@@ -29,8 +30,7 @@
     "دوري أبطال آسيا للنخبة",
     "دوري ابطال اسيا للنخبة",
     "alwan",
-    "مينا نادر",
-    "haha"
+    "مينا نادر"
   ],
 
   "blocked_users": [
