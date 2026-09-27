@@ -1,15 +1,14 @@
 {
-  "version": 8,
-  "block_bein": false,
-  "block_premium": false,
+  "version": 9,
+  "block_bein": true,
+  "block_premium": true,
 
   "bein_keywords": [
     "bein",
     "beinsport",
     "beinsports",
     "bein sport",
-    "bein sports",
-    "haha"
+    "bein sports"
   ],
 
   "premium_keywords": [
@@ -30,7 +29,8 @@
     "دوري أبطال آسيا للنخبة",
     "دوري ابطال اسيا للنخبة",
     "alwan",
-    "مينا نادر"
+    "مينا نادر",
+    "haha"
   ],
 
   "blocked_users": [
