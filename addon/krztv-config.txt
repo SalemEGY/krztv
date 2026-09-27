@@ -14,6 +14,13 @@
     "disney",
     "prime video",
     "Hahaiptv",
-    "Haha"
+    "Haha",
+    "Alwan",
+    "Alkass",
+    "Thmanyah",
+    "ART",
+    "دوري أبطال",
+    "Haha",
+    "Thamanih",
   ]
 }
