@@ -7,22 +7,6 @@
   ],
 
   "premium_keywords": [
-    "netflix",
-    "shahid",
-    "osn",
-    "starz",
-    "disney",
-    "prime video",
-    "primevideo",
-    "hahaiptv",
-    "HaHa",
-    "alwan",
-    "alkass",
-    "thmanyah",
-    "thamanih",
-    "art",
-    "دوري أبطال آسيا للنخبة",
-    "دوري ابطال اسيا للنخبة",
     ""
   ]
 }
