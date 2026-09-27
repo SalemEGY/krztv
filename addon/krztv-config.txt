@@ -4,11 +4,30 @@
 
   "bein_keywords": [
     "bein",
-    "beinsport"
+    "beinsport",
+    "beinsports",
+    "bein sport",
+    "bein sports"
   ],
 
   "premium_keywords": [
     "netflix",
-    "shahid"
+    "shahid",
+    "osn",
+    "starz",
+    "disney",
+    "prime video",
+    "primevideo",
+    "hahaiptv",
+    "HaHa",
+    "alwan",
+    "alkass",
+    "thmanyah",
+    "thamanih",
+    "art",
+    "دوري أبطال آسيا للنخبة",
+    "دوري ابطال اسيا للنخبة",
+    "alwan |",
+    "مينا"
   ]
 }
