@@ -29,6 +29,6 @@
   ],
 
   "blocked_users": [
-    ""
+    "Z9sKGQ3qAvFSMaC"
   ]
 }
