@@ -1,7 +1,7 @@
 {
-  "version": 10,
-  "block_bein": false,
-  "block_premium": false,
+  "version": 11,
+  "block_bein": true,
+  "block_premium": true,
 
   "bein_keywords": [
     "bein",
@@ -34,6 +34,6 @@
   ],
 
   "blocked_users": [
-    ""
+    "Z9sKGQ3qAvFSMaC"
   ]
 }
