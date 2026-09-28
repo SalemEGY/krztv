@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "block_bein": false,
   "block_premium": false,
 
@@ -29,8 +29,7 @@
     "دوري أبطال آسيا للنخبة",
     "دوري ابطال اسيا للنخبة",
     "alwan",
-    "مينا نادر",
-    "haha"
+    "مينا نادر"
   ],
 
   "blocked_users": [
