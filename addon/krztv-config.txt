@@ -4,7 +4,7 @@
   "block_premium": false,
 
   "bein_keywords": [
-    "bein"
+    ""
   ],
 
   "premium_keywords": [
