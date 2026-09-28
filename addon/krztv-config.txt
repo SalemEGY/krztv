@@ -1,14 +1,10 @@
 {
-  "version": 11,
+  "version": 12,
   "block_bein": false,
   "block_premium": false,
 
   "bein_keywords": [
-    "bein",
-    "beinsport",
-    "beinsports",
-    "bein sport",
-    "bein sports"
+    ""
   ],
 
   "premium_keywords": [
