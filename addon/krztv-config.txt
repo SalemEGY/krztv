@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "block_bein": true,
   "block_premium": false,
 
@@ -36,9 +36,11 @@
     "SPORT | AD",
     "SPORT | TIME SHIFT",
     "AR | Shahed",
-    "FAJR",
+    "FAJER",
     "EN | HBO",
     "EN | MOVIES EXTRA"
+    "SPORT",
+    "BOX OFFICE"
   ],
 
   "blocked_users": [
