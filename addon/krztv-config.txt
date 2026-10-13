@@ -40,7 +40,8 @@
     "EN | HBO",
     "EN | MOVIES EXTRA",
     "SPORT",
-    "BOX OFFICE"
+    "BOX OFFICE",
+    "FIFA"
   ],
 
   "blocked_users": [
