@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "block_bein": true,
   "block_premium": false,
 
@@ -26,7 +26,11 @@
     "دوري ابطال اسيا للنخبة",
     "alwan",
     "مينا نادر",
-    "bein"
+    "bein",
+    "AFC",
+    "AR cam",
+    "EN cam",
+    "Special"
   ],
 
   "blocked_users": [
