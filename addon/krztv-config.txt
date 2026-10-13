@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "block_bein": true,
   "block_premium": false,
 
@@ -34,6 +34,7 @@
   ],
 
   "blocked_users": [
-    "Z9sKGQ3qAvFSMaC"
+    "Z9sKGQ3qAvFSMaC",
+    "354652461436"
   ]
 }
