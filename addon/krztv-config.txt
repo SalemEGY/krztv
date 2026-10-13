@@ -38,7 +38,7 @@
     "AR | Shahed",
     "FAJER",
     "EN | HBO",
-    "EN | MOVIES EXTRA"
+    "EN | MOVIES EXTRA",
     "SPORT",
     "BOX OFFICE"
   ],
