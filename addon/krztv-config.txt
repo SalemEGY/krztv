@@ -41,7 +41,8 @@
     "EN | MOVIES EXTRA",
     "SPORT",
     "BOX OFFICE",
-    "FIFA"
+    "FIFA",
+    "EGYPT CAMERA"
   ],
 
   "blocked_users": [
