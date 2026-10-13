@@ -1,10 +1,11 @@
 {
-  "version": 19,
+  "version": 20,
   "block_bein": true,
   "block_premium": false,
 
   "bein_keywords": [
-    "haha"
+    "haha",
+    "cobra"
   ],
 
   "premium_keywords": [
@@ -31,6 +32,13 @@
     "AR cam",
     "EN cam",
     "Special"
+    "SPORT | TURKEY",
+    "SPORT | AD",
+    "SPORT | TIME SHIFT",
+    "AR | Shahed",
+    "FAJR",
+    "EN | HBO",
+    "EN | MOVIES EXTRA"
   ],
 
   "blocked_users": [
