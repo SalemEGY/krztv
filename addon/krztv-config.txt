@@ -42,7 +42,9 @@
     "SPORT",
     "BOX OFFICE",
     "FIFA",
-    "EGYPT CAMERA"
+    "EGYPT CAMERA",
+    "The Movies",
+    "ShoofMax"
   ],
 
   "blocked_users": [
