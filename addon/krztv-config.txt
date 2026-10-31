@@ -49,7 +49,6 @@
 
   "blocked_users": [
     "Z9sKGQ3qAvFSMaC",
-    "354652461436",
-    "SalemEGY"
+    "354652461436"
   ]
 }
