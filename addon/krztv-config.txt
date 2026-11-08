@@ -44,7 +44,8 @@
     "FIFA",
     "EGYPT CAMERA",
     "The Movies",
-    "ShoofMax"
+    "ShoofMax",
+    "FIFA"
   ],
 
   "blocked_users": [
