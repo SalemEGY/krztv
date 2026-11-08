@@ -6,7 +6,8 @@
   "bein_keywords": [
     "haha",
     "cobra",
-    "FIFA"
+    "FIFA",
+    "The holy quran"
   ],
 
   "premium_keywords": [
