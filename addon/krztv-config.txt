@@ -5,7 +5,8 @@
 
   "bein_keywords": [
     "haha",
-    "cobra"
+    "cobra",
+    "FIFA"
   ],
 
   "premium_keywords": [
@@ -44,8 +45,7 @@
     "FIFA",
     "EGYPT CAMERA",
     "The Movies",
-    "ShoofMax",
-    "FIFA"
+    "ShoofMax"
   ],
 
   "blocked_users": [
